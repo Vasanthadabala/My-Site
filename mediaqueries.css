@@ -52,10 +52,20 @@
     #contact,
     footer {
       height: 40vh;
+      margin-top: 15px;
     }
     #profile {
       height: 83vh;
       margin-bottom: 0;
+    }
+
+    #projects{
+      margin-top: 10px;
+    }
+
+    #about{
+      margin: 0px;
+      margin-top: 60px;
     }
     article {
       font-size: 1rem;
